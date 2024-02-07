@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/food-app/static/css/main.b78bc273.css",
+    "main.js": "/food-app/static/js/main.d6a83b8c.js",
+    "static/media/foodbg.png": "/food-app/static/media/foodbg.7aebc18f581e3efd7b9c.png",
+    "static/media/sixthcat.png": "/food-app/static/media/sixthcat.2106716303d907c1ad89.png",
+    "static/media/fourthhh.png": "/food-app/static/media/fourthhh.5afc4ef80fd1af689aa0.png",
+    "static/media/secondCat.png": "/food-app/static/media/secondCat.adcf4f7221d73fcec8cd.png",
+    "static/media/firstbelow.png": "/food-app/static/media/firstbelow.e203d7490cd37b620942.png",
+    "static/media/thirdCaT.png": "/food-app/static/media/thirdCaT.d67c0a90e49bf2056c58.png",
+    "static/media/plate.png": "/food-app/static/media/plate.1b7f32c6c8eb91a11527.png",
+    "static/media/lgranLogo.png": "/food-app/static/media/lgranLogo.27f98a4c51b33b02929e.png",
+    "index.html": "/food-app/index.html",
+    "main.b78bc273.css.map": "/food-app/static/css/main.b78bc273.css.map",
+    "main.d6a83b8c.js.map": "/food-app/static/js/main.d6a83b8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b78bc273.css",
+    "static/js/main.d6a83b8c.js"
+  ]
+}
